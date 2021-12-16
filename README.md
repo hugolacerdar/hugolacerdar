@@ -11,6 +11,6 @@ const hugo = {
   code: [Typescript, Javascript, Elixir, HTML, CSS, PL/SQL],
   tools: [Node, React, Next, Styled-Components, Jest, Docker, Chakra-Ui, Phoenix],
   contact: "contact@hugolacerda.dev",
-  hobbies: ["indoor climbing", "tabletop games", "cooking"]
+  hobbies: ["indoor climbing", "tabletop games", "cooking", "comics"]
 }
 ```
