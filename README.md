@@ -1,10 +1,17 @@
 <h2>Hello, I'm Hugo Lacerda,  a full stack dev based in Brazil 👋</h2>
 
 [![Linkedin: Hugo Lacerda](https://img.shields.io/badge/-hugolacerda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-lacerda-rocha/)](https://www.linkedin.com/in/hugo-lacerda-rocha/) ![GitHub Hugo Lacerda](https://img.shields.io/github/followers/hugolacerdar?style=social&label=Follow)
-- Data Base undergraduate student at <a href="https://www.fiap.com.br">FIAP</a> (2021-2022) 🎓
-- Currently open for work 🟢 
-- Learning Vue.js and NestJS 📖
-- Visit my [Portfolio](https://www.hugolacerda.dev/) 🏗️
+
+<em>
+
+  - Data Base undergraduate student at <a href="https://www.fiap.com.br">FIAP</a> (2021-2022) 🎓
+
+  - Currently open for work 🟢 
+  
+  - Learning Vue.js and NestJS 📖
+
+  - [Portfolio](https://www.hugolacerda.dev/) 🏗️
+</em>
 
 ## About me...
 ```javascript
