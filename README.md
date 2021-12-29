@@ -8,7 +8,7 @@
 
   - Currently open for work 🟢 
   
-  - Learning Vue.js and NestJS 📖
+  - Learning Vue.js,NestJS and Prisma 📖
 
   - [Portfolio](https://www.hugolacerda.dev/) 🏗️
 </em>
