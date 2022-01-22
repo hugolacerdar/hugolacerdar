@@ -2,7 +2,6 @@
 
 [![Linkedin: Hugo Lacerda](https://img.shields.io/badge/-hugolacerda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-lacerda-rocha/)](https://www.linkedin.com/in/hugo-lacerda-rocha/) ![GitHub Hugo Lacerda](https://img.shields.io/github/followers/hugolacerdar?style=social&label=Follow)
 
-<em>
 
   - Data Base undergraduate student at <a href="https://www.fiap.com.br">FIAP</a> (2021-2022) 🎓
 
@@ -11,9 +10,18 @@
   - Learning Vue.js, NestJS and Prisma 🚀
   - Reading Clean Architecture, by Uncle Bob 📖
   - [Portfolio](https://www.hugolacerda.dev/) 🏗️
-</em>
+</br>
+</br>
 
-## About me...
+## Stats
+<div>
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolacerdar&layout=compact&langs_count=7&theme=cobalt"/>
+ <img width="400px" src="https://github-readme-stats.vercel.app/api?username=hugolacerdar&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+</div>
+</br>
+</br>
+
+## About me
 ```javascript
 const hugo = {
 
