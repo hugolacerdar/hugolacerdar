@@ -20,20 +20,3 @@
 </div>
 </br>
 </br>
-
-## About me
-```javascript
-const hugo = {
-
-  pronouns: "he" | "him",
-  
-  code: [Typescript, Javascript, Elixir, HTML, CSS, PL/SQL],
-  
-  tools: [Node, React, Next, Styled-Components, Jest, Docker, Chakra-Ui, Phoenix],
-  
-  contact: "contact@hugolacerda.dev",
-  
-  hobbies: ["indoor climbing", "tabletop games", "cooking", "comics"]
-  
-}
-```
