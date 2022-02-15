@@ -7,7 +7,7 @@
 
   - Currently open for work 🟢 
   
-  - Learning Vue.js, NestJS and Prisma 🚀
+  - Learning NestJS and RoR 🚀
   - Reading Clean Architecture, by Uncle Bob 📖
   - [Portfolio](https://www.hugolacerda.dev/) 🏗️
 </br>
