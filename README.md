@@ -7,10 +7,9 @@
 
   - Currently open for work 🟢 
   
-  - Learning NestJS and RoR 🚀
   - Reading Clean Architecture, by Uncle Bob 📖
-  - [Portfolio](https://www.hugolacerda.dev/) 🏗️
-</br>
+  
+  </br>
 </br>
 
 ## Stats
