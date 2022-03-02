@@ -7,7 +7,7 @@
 
   - Currently open for work 🟢 
   
-  - Reading Clean Architecture, by Uncle Bob 📖
+  - Reading Clean Architecture and Genetic Algorithms in Elixir 📖
   
   </br>
 </br>
