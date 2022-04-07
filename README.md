@@ -3,10 +3,8 @@
 [![Linkedin: Hugo Lacerda](https://img.shields.io/badge/-hugolacerda-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hugo-lacerda-rocha/)](https://www.linkedin.com/in/hugo-lacerda-rocha/) ![GitHub Hugo Lacerda](https://img.shields.io/github/followers/hugolacerdar?style=social&label=Follow)
 
 
-  - Data Base undergraduate student at <a href="https://www.fiap.com.br">FIAP</a> (2021-2022) 🎓
-
-  - Currently open for work 🟢 
-  
+  - Data Base undergraduate student at <a href="https://www.fiap.com.br">FIAP</a> (2021-2022)
+  - 
   - Reading Clean Architecture and Genetic Algorithms in Elixir 📖
   
   </br>
